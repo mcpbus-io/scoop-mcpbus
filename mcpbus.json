@@ -1,0 +1,22 @@
+{
+    "version": "1.0.11",
+    "architecture": {
+        "64bit": {
+            "url": "https://downloads.mcpbus.io/releases/v1.0.11/mcpbus_1.0.11_windows_amd64.zip",
+            "bin": [
+                "mcpbus.exe"
+            ],
+            "hash": "111bf67200f93b166503507d0480b22a7dbf4fc930b1a288da17747376be08df"
+        },
+        "arm64": {
+            "url": "https://downloads.mcpbus.io/releases/v1.0.11/mcpbus_1.0.11_windows_arm64.zip",
+            "bin": [
+                "mcpbus.exe"
+            ],
+            "hash": "bdb2c67f81a6630c3d5db33d4efe3565dec42fef610d1c3adc422e61a2cbd2d8"
+        }
+    },
+    "homepage": "https://mcpbus.io",
+    "license": "Proprietary",
+    "description": "Turn any OpenAPI Spec into an MCP Server in 1 Second. MCPBus is a zero-code, standalone binary that translates REST endpoints into secure, agent-ready MCP-tools for Claude Desktop, OpenAI, and LangChain. MCPBus is a must-have tool for any Agentic AI Developer or Forward Deployed AI Engineer."
+}
