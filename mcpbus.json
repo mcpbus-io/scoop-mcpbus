@@ -1,29 +1,29 @@
 {
-    "version": "1.1.2",
+    "version": "1.1.4",
     "architecture": {
         "32bit": {
-            "url": "https://downloads.mcpbus.io/releases/v1.1.2/mcpbus_1.1.2_windows_386.zip",
+            "url": "https://downloads.mcpbus.io/releases/v1.1.4/mcpbus_1.1.4_windows_386.zip",
             "bin": [
                 "mcpbus.exe"
             ],
-            "hash": "404611cb0b9fcabe44a470e38344ed1553c0de4c273f70baf2280a69f63dca55"
+            "hash": "c789ef87b77f1d89a52679480c373a67628640ddd11b7c95975a7a144082eb92"
         },
         "64bit": {
-            "url": "https://downloads.mcpbus.io/releases/v1.1.2/mcpbus_1.1.2_windows_amd64.zip",
+            "url": "https://downloads.mcpbus.io/releases/v1.1.4/mcpbus_1.1.4_windows_amd64.zip",
             "bin": [
                 "mcpbus.exe"
             ],
-            "hash": "599c26a8b7d8c8f2bcb95ffbbdcb876644730be5b7613e42767732aefbae280f"
+            "hash": "9b8fa755ba21abc96670ff8c8961cd2f4596a2acb6931117360bcbe49ea64951"
         },
         "arm64": {
-            "url": "https://downloads.mcpbus.io/releases/v1.1.2/mcpbus_1.1.2_windows_arm64.zip",
+            "url": "https://downloads.mcpbus.io/releases/v1.1.4/mcpbus_1.1.4_windows_arm64.zip",
             "bin": [
                 "mcpbus.exe"
             ],
-            "hash": "764a8e653fd8d355e3cc27a81241aae916494884b022420c2f3f4891086ecc03"
+            "hash": "ab03532ca457dfe22b60dbfa7b6eaecde528b220d0e75ff0f5e52595b19a786b"
         }
     },
     "homepage": "https://mcpbus.io",
     "license": "Proprietary",
-    "description": "Turn any OpenAPI Spec into an MCP Server in 1 Second. MCPBus is a zero-code, standalone binary that translates REST endpoints into secure, agent-ready MCP-tools for Claude Desktop, OpenAI, and LangChain. MCPBus is a must-have tool for any Agentic AI Developer or Forward Deployed AI Engineer."
+    "description": "MCPBus: Turn OpenAPI Spec into MCP Server in Code-mode. MCPBus is a must-have tool for any Agentic AI Developer or Forward Deployed AI Engineer. It is distributed as a stand alone, highly optimized binary, available for all major platforms and OS. Install the binary, run a single command, and get your MCP-server up and running in Code-mode in 1 second. No generated SDKs, no NodeJS, no Python, no VMs."
 }
