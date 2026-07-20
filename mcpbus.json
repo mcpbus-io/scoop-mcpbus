@@ -1,26 +1,26 @@
 {
-    "version": "1.1.14",
+    "version": "1.1.15",
     "architecture": {
         "32bit": {
-            "url": "https://downloads.mcpbus.io/releases/v1.1.14/mcpbus_1.1.14_windows_386.zip",
+            "url": "https://downloads.mcpbus.io/releases/v1.1.15/mcpbus_1.1.15_windows_386.zip",
             "bin": [
                 "mcpbus.exe"
             ],
-            "hash": "bf8ce9659c231743f04002b0919273a311724556d9cfbc6591d48dfb3c188687"
+            "hash": "8b182ffc22ea29f1d73cc48f001e8d53dfba433621724ef191995383a6cb27f3"
         },
         "64bit": {
-            "url": "https://downloads.mcpbus.io/releases/v1.1.14/mcpbus_1.1.14_windows_amd64.zip",
+            "url": "https://downloads.mcpbus.io/releases/v1.1.15/mcpbus_1.1.15_windows_amd64.zip",
             "bin": [
                 "mcpbus.exe"
             ],
-            "hash": "3579ab9acc23f715f72bc778deac0dc63733285c23d14abf528524d4bf000076"
+            "hash": "17f8ef1a6aecb801d8a4aa5e87dedf532dced26f20ca3c9db0c611e28773908f"
         },
         "arm64": {
-            "url": "https://downloads.mcpbus.io/releases/v1.1.14/mcpbus_1.1.14_windows_arm64.zip",
+            "url": "https://downloads.mcpbus.io/releases/v1.1.15/mcpbus_1.1.15_windows_arm64.zip",
             "bin": [
                 "mcpbus.exe"
             ],
-            "hash": "e8fd9f716d31b8d741a903e72e5653dc94a48d25685067f606caa899e24f4766"
+            "hash": "e2d5232319910f59a07823e587b2fd377dc628da1962a14066b7abd88d3b3c86"
         }
     },
     "homepage": "https://mcpbus.io",
